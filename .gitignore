@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/TestingCore/.vs/TestingCore/v16
+/TestingCore/TestingCore/obj
